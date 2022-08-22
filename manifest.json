@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "netflix blur synopsis",
   "version": "0.1.0",
-  "description": "Blurs episode synopsis of a netflix show",
+  "description": "Blurs episode synopsis of a netflix show to avoid spoiler",
   "content_scripts": [
     {
       "matches": ["*://www.netflix.com/*"],

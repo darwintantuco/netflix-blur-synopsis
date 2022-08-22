@@ -1,6 +1,8 @@
 # netflix-blur-synopsis
 
-Blurs episode synopsis of a netflix show
+Blurs episode synopsis of a netflix show to avoid spoiler
+
+There are rare instances in which it reveals too much
 
 ![](demo.png)
 
